@@ -1,5 +1,5 @@
 mountpoints:
-  # /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/sol-sc-boilerplate-xwalk
+  # /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/marisa-latest-boilerplate
   /:
     url: "https://author-p121050-e1183639.adobeaemcloud.com/bin/franklin.delivery/mspara26/latest-boilerplate/main"
     type: "markup"
